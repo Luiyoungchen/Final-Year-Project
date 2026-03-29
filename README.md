@@ -47,7 +47,8 @@ pip install pandas scikit-learn joblib
 
 Make sure the project follows this structure:
 
-"pgi/
+``` bash
+pgi/
 │
 ├── data/
 │   ├── raw/                # Place all raw CSV files (2018–2023)
@@ -59,7 +60,8 @@ Make sure the project follows this structure:
 ├── src/
 │   ├── preprocess.py
 │   ├── train.py
-│   └── predict_2024.py"
+│   └── predict_2024.py
+```
 
 ---
 
