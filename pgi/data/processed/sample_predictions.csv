@@ -1,0 +1,667 @@
+District,Year,Actual_Grade_Num,Actual_Grade_Label,Predicted_Grade_Num,Predicted_Grade_Label
+Adilabad,2022,4,Prachesta-3,4,Prachesta-3
+Agar Malwa,2022,3,Prachesta-2,4,Prachesta-3
+Agra,2022,3,Prachesta-2,4,Prachesta-3
+Ahmedabad,2022,2,Prachesta-1,2,Prachesta-1
+Aizawl,2022,3,Prachesta-2,4,Prachesta-3
+Ajmer,2022,2,Prachesta-1,3,Prachesta-2
+Akola,2022,3,Prachesta-2,3,Prachesta-2
+Alappuzha,2022,2,Prachesta-1,2,Prachesta-1
+Aligarh,2022,3,Prachesta-2,3,Prachesta-2
+Alipurduar,2022,4,Prachesta-3,4,Prachesta-3
+Alirajpur,2022,4,Prachesta-3,4,Prachesta-3
+Almora,2022,3,Prachesta-2,3,Prachesta-2
+Alwar,2022,2,Prachesta-1,3,Prachesta-2
+Ambala,2022,2,Prachesta-1,3,Prachesta-2
+Ambedkar Nagar,2022,3,Prachesta-2,3,Prachesta-2
+Amravati,2022,2,Prachesta-1,3,Prachesta-2
+Amreli,2022,2,Prachesta-1,2,Prachesta-1
+Amritsar,2022,5,Uttam,2,Prachesta-1
+Anand,2022,2,Prachesta-1,2,Prachesta-1
+Anantnag,2022,2,Prachesta-1,4,Prachesta-3
+Angul,2022,2,Prachesta-1,3,Prachesta-2
+Anjaw,2022,4,Prachesta-3,1,Akanshi
+Anuppur,2022,3,Prachesta-2,4,Prachesta-3
+Araria,2022,4,Prachesta-3,4,Prachesta-3
+Aravalli,2022,2,Prachesta-1,2,Prachesta-1
+Ariyalur,2022,3,Prachesta-2,2,Prachesta-1
+Arwal,2022,3,Prachesta-2,4,Prachesta-3
+Ashoknagar,2022,3,Prachesta-2,4,Prachesta-3
+Auraiya,2022,3,Prachesta-2,4,Prachesta-3
+Aurangabad (Bihar),2022,4,Prachesta-3,4,Prachesta-3
+Azamgarh,2022,3,Prachesta-2,4,Prachesta-3
+Badgam,2022,2,Prachesta-1,3,Prachesta-2
+Bageshwar,2022,2,Prachesta-1,3,Prachesta-2
+Baghpat,2022,3,Prachesta-2,4,Prachesta-3
+Bahraich,2022,4,Prachesta-3,4,Prachesta-3
+Baksa,2022,2,Prachesta-1,3,Prachesta-2
+Balaghat,2022,3,Prachesta-2,4,Prachesta-3
+Balasore,2022,2,Prachesta-1,3,Prachesta-2
+Ballari,2022,3,Prachesta-2,3,Prachesta-2
+Ballia,2022,3,Prachesta-2,3,Prachesta-2
+Balod,2022,2,Prachesta-1,3,Prachesta-2
+Banas Kantha,2022,2,Prachesta-1,2,Prachesta-1
+Banda,2022,3,Prachesta-2,4,Prachesta-3
+Bandipora,2022,2,Prachesta-1,3,Prachesta-2
+Banka,2022,4,Prachesta-3,4,Prachesta-3
+Bankura,2022,3,Prachesta-2,3,Prachesta-2
+Banswara,2022,3,Prachesta-2,4,Prachesta-3
+Barabanki,2022,3,Prachesta-2,3,Prachesta-2
+Baran,2022,2,Prachesta-1,4,Prachesta-3
+Bareilly,2022,3,Prachesta-2,3,Prachesta-2
+Barmer,2022,2,Prachesta-1,3,Prachesta-2
+Barnala,2022,5,Uttam,2,Prachesta-1
+Barpeta,2022,3,Prachesta-2,3,Prachesta-2
+Barwani,2022,4,Prachesta-3,4,Prachesta-3
+Baster,2022,3,Prachesta-2,3,Prachesta-2
+Basti,2022,3,Prachesta-2,4,Prachesta-3
+Bathinda,2022,5,Uttam,2,Prachesta-1
+Begusarai,2022,3,Prachesta-2,4,Prachesta-3
+Belagavi,2022,3,Prachesta-2,3,Prachesta-2
+Belagavi Chikkodi,2022,2,Prachesta-1,3,Prachesta-2
+Bemetara,2022,3,Prachesta-2,3,Prachesta-2
+Bengaluru Rural,2022,2,Prachesta-1,3,Prachesta-2
+Betul,2022,3,Prachesta-2,4,Prachesta-3
+Bhadoi,2022,3,Prachesta-2,4,Prachesta-3
+Bhadradri Kothagudem,2022,3,Prachesta-2,4,Prachesta-3
+Bhadrak,2022,2,Prachesta-1,3,Prachesta-2
+Bhagalpur,2022,4,Prachesta-3,4,Prachesta-3
+Bhandara,2022,3,Prachesta-2,3,Prachesta-2
+Bharatpur,2022,2,Prachesta-1,3,Prachesta-2
+Bharuch,2022,2,Prachesta-1,2,Prachesta-1
+Bhavnagar,2022,2,Prachesta-1,2,Prachesta-1
+Bhilwara,2022,2,Prachesta-1,4,Prachesta-3
+Bhind,2022,2,Prachesta-1,3,Prachesta-2
+Bhiwani,2022,2,Prachesta-1,3,Prachesta-2
+Bhojpur,2022,3,Prachesta-2,4,Prachesta-3
+Bhopal,2022,3,Prachesta-2,3,Prachesta-2
+Bidar,2022,3,Prachesta-2,3,Prachesta-2
+Bijapur,2022,3,Prachesta-2,3,Prachesta-2
+Bijnor,2022,3,Prachesta-2,3,Prachesta-2
+Bikaner,2022,2,Prachesta-1,3,Prachesta-2
+Bilaspur,2022,3,Prachesta-2,3,Prachesta-2
+Bilaspur (H.P.),2022,2,Prachesta-1,3,Prachesta-2
+Birbhum,2022,3,Prachesta-2,4,Prachesta-3
+Bishnupur,2022,3,Prachesta-2,3,Prachesta-2
+Biswanath,2022,3,Prachesta-2,3,Prachesta-2
+Bokaro,2022,3,Prachesta-2,3,Prachesta-2
+Bongaigaon,2022,2,Prachesta-1,3,Prachesta-2
+Botad,2022,2,Prachesta-1,2,Prachesta-1
+Boudh,2022,2,Prachesta-1,3,Prachesta-2
+Budaun,2022,4,Prachesta-3,4,Prachesta-3
+Bulandshahr,2022,3,Prachesta-2,3,Prachesta-2
+Bundi,2022,2,Prachesta-1,3,Prachesta-2
+Burhanpur,2022,3,Prachesta-2,4,Prachesta-3
+Buxar,2022,3,Prachesta-2,4,Prachesta-3
+Cachar,2022,3,Prachesta-2,3,Prachesta-2
+Central,2022,2,Prachesta-1,2,Prachesta-1
+Chamba,2022,2,Prachesta-1,4,Prachesta-3
+Chamoli,2022,2,Prachesta-1,4,Prachesta-3
+Champawat,2022,2,Prachesta-1,4,Prachesta-3
+Champhai,2022,3,Prachesta-2,4,Prachesta-3
+Chandauli,2022,3,Prachesta-2,3,Prachesta-2
+Chandel,2022,4,Prachesta-3,4,Prachesta-3
+Chandigarh,2022,5,Uttam,2,Prachesta-1
+Chandrapur,2022,2,Prachesta-1,3,Prachesta-2
+Changlang,2022,4,Prachesta-3,4,Prachesta-3
+Charaideo,2022,2,Prachesta-1,3,Prachesta-2
+Charkhi Dadri,2022,2,Prachesta-1,3,Prachesta-2
+Chatra,2022,4,Prachesta-3,3,Prachesta-2
+Chengalpattu,2022,3,Prachesta-2,2,Prachesta-1
+Chhatarpur,2022,3,Prachesta-2,3,Prachesta-2
+Chhindwara,2022,3,Prachesta-2,3,Prachesta-2
+Chhotaudepur,2022,2,Prachesta-1,2,Prachesta-1
+Chikkaballapura,2022,3,Prachesta-2,4,Prachesta-3
+Chikkamangaluru,2022,2,Prachesta-1,3,Prachesta-2
+Chirang,2022,3,Prachesta-2,4,Prachesta-3
+Chitradurga,2022,3,Prachesta-2,3,Prachesta-2
+Chitrakoot,2022,3,Prachesta-2,4,Prachesta-3
+Chittaurgarh,2022,2,Prachesta-1,3,Prachesta-2
+Chittoor,2022,2,Prachesta-1,3,Prachesta-2
+Churachandpur,2022,3,Prachesta-2,3,Prachesta-2
+Churu,2022,2,Prachesta-1,3,Prachesta-2
+Coimbatore,2022,2,Prachesta-1,2,Prachesta-1
+Cuddalore,2022,3,Prachesta-2,2,Prachesta-1
+Cuttack,2022,2,Prachesta-1,3,Prachesta-2
+Dakshin Dinajpur,2022,4,Prachesta-3,3,Prachesta-2
+Dakshina Kannada,2022,2,Prachesta-1,2,Prachesta-1
+Daman (Dist),2022,2,Prachesta-1,3,Prachesta-2
+Damoh,2022,2,Prachesta-1,4,Prachesta-3
+Dantewada,2022,3,Prachesta-2,3,Prachesta-2
+Darbhanga,2022,3,Prachesta-2,4,Prachesta-3
+Darjeeling,2022,4,Prachesta-3,1,Akanshi
+Darrang,2022,3,Prachesta-2,3,Prachesta-2
+Datia,2022,3,Prachesta-2,4,Prachesta-3
+Dausa,2022,2,Prachesta-1,3,Prachesta-2
+Davanagere,2022,3,Prachesta-2,3,Prachesta-2
+Dehradun,2022,2,Prachesta-1,3,Prachesta-2
+Deogarh,2022,2,Prachesta-1,3,Prachesta-2
+Deoghar,2022,3,Prachesta-2,3,Prachesta-2
+Deoria,2022,3,Prachesta-2,4,Prachesta-3
+Dewas,2022,3,Prachesta-2,3,Prachesta-2
+Dhalai,2022,3,Prachesta-2,4,Prachesta-3
+Dhamtari,2022,3,Prachesta-2,3,Prachesta-2
+Dhanbad,2022,3,Prachesta-2,3,Prachesta-2
+Dhar,2022,3,Prachesta-2,4,Prachesta-3
+Dharmapuri,2022,3,Prachesta-2,2,Prachesta-1
+Dharwad,2022,3,Prachesta-2,3,Prachesta-2
+Dhaulpur,2022,5,Uttam,2,Prachesta-1
+Dhemaji,2022,2,Prachesta-1,3,Prachesta-2
+Dhenkanal,2022,2,Prachesta-1,3,Prachesta-2
+Dhubri,2022,3,Prachesta-2,3,Prachesta-2
+Dhule,2022,2,Prachesta-1,3,Prachesta-2
+Dibang Valley,2022,4,Prachesta-3,1,Akanshi
+Dibrugarh,2022,2,Prachesta-1,3,Prachesta-2
+Dima Hasao,2022,2,Prachesta-1,4,Prachesta-3
+Dimapur,2022,3,Prachesta-2,3,Prachesta-2
+Dindigul,2022,2,Prachesta-1,2,Prachesta-1
+Dindori,2022,3,Prachesta-2,4,Prachesta-3
+Diu (Dist),2022,2,Prachesta-1,2,Prachesta-1
+Doda,2022,3,Prachesta-2,4,Prachesta-3
+Dohad,2022,2,Prachesta-1,2,Prachesta-1
+Dumka,2022,4,Prachesta-3,4,Prachesta-3
+Dungarpur,2022,3,Prachesta-2,3,Prachesta-2
+Durg,2022,2,Prachesta-1,3,Prachesta-2
+East,2022,5,Uttam,2,Prachesta-1
+East Garo Hills,2022,4,Prachesta-3,1,Akanshi
+East Godavari,2022,2,Prachesta-1,3,Prachesta-2
+East Jaintia Hills,2022,4,Prachesta-3,4,Prachesta-3
+East Kameng,2022,4,Prachesta-3,1,Akanshi
+East Khasi Hills,2022,4,Prachesta-3,4,Prachesta-3
+East Siang,2022,3,Prachesta-2,4,Prachesta-3
+Ernakulam,2022,5,Uttam,2,Prachesta-1
+Erode,2022,2,Prachesta-1,2,Prachesta-1
+Etah,2022,3,Prachesta-2,4,Prachesta-3
+Etawah,2022,3,Prachesta-2,4,Prachesta-3
+Faizabad,2022,3,Prachesta-2,4,Prachesta-3
+Faridabad,2022,2,Prachesta-1,2,Prachesta-1
+Faridkot,2022,5,Uttam,2,Prachesta-1
+Farrukhabad,2022,3,Prachesta-2,3,Prachesta-2
+Fatehabad,2022,2,Prachesta-1,3,Prachesta-2
+Fatehgarh Sahib,2022,5,Uttam,2,Prachesta-1
+Fatehpur,2022,3,Prachesta-2,4,Prachesta-3
+Fazilka,2022,5,Uttam,2,Prachesta-1
+Firozabad,2022,3,Prachesta-2,3,Prachesta-2
+Firozpur,2022,5,Uttam,2,Prachesta-1
+Gadag,2022,3,Prachesta-2,3,Prachesta-2
+Gadchiroli,2022,3,Prachesta-2,3,Prachesta-2
+Gajapati,2022,3,Prachesta-2,3,Prachesta-2
+Ganderbal,2022,3,Prachesta-2,4,Prachesta-3
+Gandhinagar,2022,2,Prachesta-1,2,Prachesta-1
+Ganganagar,2022,2,Prachesta-1,2,Prachesta-1
+Ganjam,2022,2,Prachesta-1,3,Prachesta-2
+Garhwa,2022,4,Prachesta-3,4,Prachesta-3
+Gariaband,2022,3,Prachesta-2,3,Prachesta-2
+Gautam Buddha Nagar,2022,2,Prachesta-1,3,Prachesta-2
+Gaya,2022,4,Prachesta-3,4,Prachesta-3
+Ghaziabad,2022,3,Prachesta-2,3,Prachesta-2
+Ghazipur,2022,3,Prachesta-2,4,Prachesta-3
+Gir Somnath,2022,2,Prachesta-1,2,Prachesta-1
+Giridih,2022,3,Prachesta-2,3,Prachesta-2
+Goalpara,2022,2,Prachesta-1,3,Prachesta-2
+Godda,2022,4,Prachesta-3,3,Prachesta-2
+Golaghat,2022,2,Prachesta-1,3,Prachesta-2
+Gomati,2022,3,Prachesta-2,4,Prachesta-3
+Gonda,2022,4,Prachesta-3,4,Prachesta-3
+Gopalganj,2022,4,Prachesta-3,4,Prachesta-3
+Gorakhpur,2022,3,Prachesta-2,3,Prachesta-2
+Gumla,2022,4,Prachesta-3,3,Prachesta-2
+Guna,2022,3,Prachesta-2,4,Prachesta-3
+Guntur,2022,2,Prachesta-1,2,Prachesta-1
+Gurdaspur,2022,5,Uttam,2,Prachesta-1
+Gurugram,2022,2,Prachesta-1,3,Prachesta-2
+Gwalior,2022,3,Prachesta-2,4,Prachesta-3
+Hailakandi,2022,3,Prachesta-2,3,Prachesta-2
+Hamirpur (H.P.),2022,2,Prachesta-1,3,Prachesta-2
+Hamirpur (U.P.),2022,3,Prachesta-2,3,Prachesta-2
+Hanumakonda,2022,3,Prachesta-2,3,Prachesta-2
+Hanumangarh,2022,2,Prachesta-1,3,Prachesta-2
+Hapur (Panchsheel Nagar),2022,3,Prachesta-2,3,Prachesta-2
+Harda,2022,3,Prachesta-2,4,Prachesta-3
+Hardoi,2022,4,Prachesta-3,4,Prachesta-3
+Hassan,2022,2,Prachesta-1,3,Prachesta-2
+Hathras,2022,3,Prachesta-2,3,Prachesta-2
+Haveri,2022,3,Prachesta-2,3,Prachesta-2
+Hazaribag,2022,3,Prachesta-2,4,Prachesta-3
+Hingoli,2022,2,Prachesta-1,3,Prachesta-2
+Hisar,2022,2,Prachesta-1,3,Prachesta-2
+Hnahthial,2022,4,Prachesta-3,4,Prachesta-3
+Hojai,2022,2,Prachesta-1,4,Prachesta-3
+Hooghly,2022,3,Prachesta-2,3,Prachesta-2
+Hoshangabad,2022,3,Prachesta-2,3,Prachesta-2
+Hoshiarpur,2022,5,Uttam,2,Prachesta-1
+Howrah,2022,3,Prachesta-2,3,Prachesta-2
+Hyderabad,2022,3,Prachesta-2,4,Prachesta-3
+Idukki,2022,2,Prachesta-1,2,Prachesta-1
+Imphal East,2022,3,Prachesta-2,3,Prachesta-2
+Imphal West,2022,2,Prachesta-1,3,Prachesta-2
+Indore,2022,3,Prachesta-2,3,Prachesta-2
+Jabalpur,2022,3,Prachesta-2,4,Prachesta-3
+Jagatsinghpur,2022,2,Prachesta-1,3,Prachesta-2
+Jagtial,2022,3,Prachesta-2,4,Prachesta-3
+Jaipur,2022,2,Prachesta-1,2,Prachesta-1
+Jaisalmer,2022,3,Prachesta-2,3,Prachesta-2
+Jajpur,2022,2,Prachesta-1,3,Prachesta-2
+Jalandhar,2022,5,Uttam,2,Prachesta-1
+Jalaun,2022,3,Prachesta-2,4,Prachesta-3
+Jalgaon,2022,2,Prachesta-1,2,Prachesta-1
+Jalna,2022,3,Prachesta-2,3,Prachesta-2
+Jalor,2022,3,Prachesta-2,3,Prachesta-2
+Jalpaiguri,2022,4,Prachesta-3,4,Prachesta-3
+Jammu,2022,2,Prachesta-1,4,Prachesta-3
+Jamnagar,2022,2,Prachesta-1,2,Prachesta-1
+Jamtara,2022,4,Prachesta-3,3,Prachesta-2
+Jamui,2022,3,Prachesta-2,4,Prachesta-3
+Jangaon,2022,3,Prachesta-2,4,Prachesta-3
+Janjgir - Champa,2022,3,Prachesta-2,3,Prachesta-2
+Jashpur,2022,3,Prachesta-2,3,Prachesta-2
+Jaunpur,2022,3,Prachesta-2,4,Prachesta-3
+Jehanabad,2022,3,Prachesta-2,4,Prachesta-3
+Jhabua,2022,4,Prachesta-3,4,Prachesta-3
+Jhajjar,2022,2,Prachesta-1,2,Prachesta-1
+Jhalawar,2022,2,Prachesta-1,4,Prachesta-3
+Jhansi,2022,3,Prachesta-2,3,Prachesta-2
+Jhargram,2022,3,Prachesta-2,3,Prachesta-2
+Jharsuguda,2022,5,Uttam,3,Prachesta-2
+Jhunjhunu,2022,2,Prachesta-1,3,Prachesta-2
+Jind,2022,2,Prachesta-1,3,Prachesta-2
+Jiribam,2022,4,Prachesta-3,1,Akanshi
+Jodhpur,2022,2,Prachesta-1,3,Prachesta-2
+Jogulamba Gadwal,2022,3,Prachesta-2,4,Prachesta-3
+Jorhat,2022,2,Prachesta-1,3,Prachesta-2
+Junagadh,2022,2,Prachesta-1,2,Prachesta-1
+Jyotiba Phule Nagar (Amroha),2022,3,Prachesta-2,3,Prachesta-2
+Kachchh,2022,3,Prachesta-2,2,Prachesta-1
+Kaimur (Bhabua),2022,3,Prachesta-2,4,Prachesta-3
+Kaithal,2022,2,Prachesta-1,3,Prachesta-2
+Kakching,2022,3,Prachesta-2,3,Prachesta-2
+Kalahandi,2022,2,Prachesta-1,3,Prachesta-2
+Kalimpong,2022,4,Prachesta-3,4,Prachesta-3
+Kallakurichi,2022,3,Prachesta-2,2,Prachesta-1
+Kamareddy,2022,3,Prachesta-2,4,Prachesta-3
+Kamjong,2022,4,Prachesta-3,3,Prachesta-2
+Kamle,2022,4,Prachesta-3,3,Prachesta-2
+Kamrup-Metro,2022,2,Prachesta-1,3,Prachesta-2
+Kancheepuram,2022,2,Prachesta-1,2,Prachesta-1
+Kandhamal,2022,2,Prachesta-1,3,Prachesta-2
+Kangpokpi,2022,3,Prachesta-2,4,Prachesta-3
+Kangra,2022,2,Prachesta-1,3,Prachesta-2
+Kannauj,2022,3,Prachesta-2,4,Prachesta-3
+Kanniyakumari,2022,2,Prachesta-1,2,Prachesta-1
+Kannur,2022,2,Prachesta-1,2,Prachesta-1
+Kanpur Dehat,2022,3,Prachesta-2,4,Prachesta-3
+Kanpur Nagar,2022,3,Prachesta-2,4,Prachesta-3
+Kapurthala,2022,2,Prachesta-1,2,Prachesta-1
+Karaikal,2022,2,Prachesta-1,2,Prachesta-1
+Karauli,2022,2,Prachesta-1,3,Prachesta-2
+Karbi Anglong,2022,3,Prachesta-2,3,Prachesta-2
+Kargil,2022,3,Prachesta-2,3,Prachesta-2
+Karimnagar,2022,3,Prachesta-2,3,Prachesta-2
+Karnal,2022,2,Prachesta-1,3,Prachesta-2
+Karur,2022,3,Prachesta-2,2,Prachesta-1
+Kasaragod,2022,2,Prachesta-1,2,Prachesta-1
+Kathua,2022,3,Prachesta-2,4,Prachesta-3
+Katihar,2022,4,Prachesta-3,4,Prachesta-3
+Katni,2022,3,Prachesta-2,4,Prachesta-3
+Kaushambi,2022,3,Prachesta-2,3,Prachesta-2
+Kendrapara,2022,2,Prachesta-1,3,Prachesta-2
+Khagaria,2022,4,Prachesta-3,4,Prachesta-3
+Khammam,2022,3,Prachesta-2,3,Prachesta-2
+Khandwa,2022,3,Prachesta-2,4,Prachesta-3
+Khargone,2022,4,Prachesta-3,4,Prachesta-3
+Khawzawl,2022,4,Prachesta-3,4,Prachesta-3
+Kheda,2022,2,Prachesta-1,2,Prachesta-1
+Kheri,2022,3,Prachesta-2,4,Prachesta-3
+Khowai,2022,3,Prachesta-2,3,Prachesta-2
+Khunti,2022,4,Prachesta-3,4,Prachesta-3
+Kinnaur,2022,3,Prachesta-2,4,Prachesta-3
+Kiphire,2022,4,Prachesta-3,4,Prachesta-3
+Kishanganj,2022,4,Prachesta-3,4,Prachesta-3
+Kishtwar,2022,3,Prachesta-2,4,Prachesta-3
+Kodagu,2022,2,Prachesta-1,3,Prachesta-2
+Kodarma,2022,3,Prachesta-2,3,Prachesta-2
+Kohima,2022,2,Prachesta-1,3,Prachesta-2
+Kokrajhar,2022,3,Prachesta-2,3,Prachesta-2
+Kolar,2022,3,Prachesta-2,3,Prachesta-2
+Kolasib,2022,3,Prachesta-2,3,Prachesta-2
+Kolhapur,2022,2,Prachesta-1,3,Prachesta-2
+Kolkata,2022,3,Prachesta-2,3,Prachesta-2
+Kollam,2022,5,Uttam,2,Prachesta-1
+Kondagaon,2022,3,Prachesta-2,3,Prachesta-2
+Koppal,2022,2,Prachesta-1,3,Prachesta-2
+Koraput,2022,2,Prachesta-1,3,Prachesta-2
+Korba,2022,3,Prachesta-2,3,Prachesta-2
+Kota,2022,2,Prachesta-1,3,Prachesta-2
+Kottayam,2022,2,Prachesta-1,2,Prachesta-1
+Kozhikode,2022,2,Prachesta-1,2,Prachesta-1
+Krishna,2022,2,Prachesta-1,3,Prachesta-2
+Krishnagiri,2022,3,Prachesta-2,2,Prachesta-1
+Kulgam,2022,3,Prachesta-2,4,Prachesta-3
+Kullu,2022,2,Prachesta-1,4,Prachesta-3
+Kupwara,2022,3,Prachesta-2,3,Prachesta-2
+Kurnool,2022,2,Prachesta-1,4,Prachesta-3
+Kurukshetra,2022,2,Prachesta-1,3,Prachesta-2
+Kurung Kumey,2022,4,Prachesta-3,4,Prachesta-3
+Kushinagar,2022,4,Prachesta-3,4,Prachesta-3
+Lakhimpur,2022,3,Prachesta-2,3,Prachesta-2
+Lakhisarai,2022,3,Prachesta-2,3,Prachesta-2
+Lakshadweep,2022,2,Prachesta-1,2,Prachesta-1
+Lalitpur,2022,3,Prachesta-2,3,Prachesta-2
+Latehar,2022,4,Prachesta-3,3,Prachesta-2
+Latur,2022,3,Prachesta-2,3,Prachesta-2
+Lawngtlai,2022,4,Prachesta-3,4,Prachesta-3
+Leh (Ladakh),2022,2,Prachesta-1,4,Prachesta-3
+Lepa Rada,2022,3,Prachesta-2,1,Akanshi
+Lohardaga,2022,3,Prachesta-2,3,Prachesta-2
+Lohit,2022,4,Prachesta-3,1,Akanshi
+Longding,2022,1,Akanshi,1,Akanshi
+Longleng,2022,3,Prachesta-2,4,Prachesta-3
+Lower Siang,2022,4,Prachesta-3,4,Prachesta-3
+Lower Subansiri,2022,3,Prachesta-2,3,Prachesta-2
+Lucknow,2022,3,Prachesta-2,4,Prachesta-3
+Ludhiana,2022,5,Uttam,2,Prachesta-1
+Lunglei,2022,4,Prachesta-3,1,Akanshi
+Madhepura,2022,4,Prachesta-3,4,Prachesta-3
+Madhubani,2022,4,Prachesta-3,4,Prachesta-3
+Madurai,2022,2,Prachesta-1,2,Prachesta-1
+Mahabubabad,2022,4,Prachesta-3,3,Prachesta-2
+Mahabubnagar,2022,3,Prachesta-2,4,Prachesta-3
+Maharajganj,2022,4,Prachesta-3,4,Prachesta-3
+Mahasamund,2022,2,Prachesta-1,3,Prachesta-2
+Mahe,2022,2,Prachesta-1,2,Prachesta-1
+Mahendragarh,2022,2,Prachesta-1,3,Prachesta-2
+Mahesana,2022,2,Prachesta-1,2,Prachesta-1
+Mahisagar,2022,2,Prachesta-1,2,Prachesta-1
+Mahoba,2022,3,Prachesta-2,3,Prachesta-2
+Mainpuri,2022,3,Prachesta-2,3,Prachesta-2
+Majuli,2022,2,Prachesta-1,3,Prachesta-2
+Malappuram,2022,2,Prachesta-1,2,Prachesta-1
+Malkangiri,2022,2,Prachesta-1,3,Prachesta-2
+Mamit,2022,3,Prachesta-2,4,Prachesta-3
+Mancherial,2022,3,Prachesta-2,4,Prachesta-3
+Mandi,2022,2,Prachesta-1,3,Prachesta-2
+Mandla,2022,3,Prachesta-2,4,Prachesta-3
+Mandsaur,2022,3,Prachesta-2,4,Prachesta-3
+Mandya,2022,3,Prachesta-2,3,Prachesta-2
+Mansa,2022,5,Uttam,5,Uttam
+Mathura,2022,3,Prachesta-2,3,Prachesta-2
+Mau,2022,3,Prachesta-2,4,Prachesta-3
+Mayurbhanj,2022,3,Prachesta-2,3,Prachesta-2
+Medak,2022,3,Prachesta-2,3,Prachesta-2
+Meerut,2022,3,Prachesta-2,3,Prachesta-2
+Mirzapur,2022,3,Prachesta-2,4,Prachesta-3
+Moga,2022,5,Uttam,2,Prachesta-1
+Mokokchung,2022,2,Prachesta-1,3,Prachesta-2
+Mon,2022,4,Prachesta-3,4,Prachesta-3
+Moradabad,2022,3,Prachesta-2,4,Prachesta-3
+Morbi,2022,2,Prachesta-1,2,Prachesta-1
+Morena,2022,3,Prachesta-2,4,Prachesta-3
+Morigaon,2022,2,Prachesta-1,3,Prachesta-2
+Mulugu,2022,4,Prachesta-3,3,Prachesta-2
+Mungeli,2022,3,Prachesta-2,3,Prachesta-2
+Munger,2022,3,Prachesta-2,4,Prachesta-3
+Murshidabad,2022,3,Prachesta-2,3,Prachesta-2
+Muzaffarnagar,2022,3,Prachesta-2,4,Prachesta-3
+Muzaffarpur,2022,4,Prachesta-3,4,Prachesta-3
+Mysuru,2022,2,Prachesta-1,3,Prachesta-2
+Nabarangpur,2022,3,Prachesta-2,3,Prachesta-2
+Nadia,2022,3,Prachesta-2,3,Prachesta-2
+Nagaon,2022,2,Prachesta-1,3,Prachesta-2
+Nagapattinam,2022,3,Prachesta-2,2,Prachesta-1
+Nagarkurnool,2022,4,Prachesta-3,4,Prachesta-3
+Nagaur,2022,2,Prachesta-1,3,Prachesta-2
+Nagpur,2022,2,Prachesta-1,3,Prachesta-2
+Nainital,2022,2,Prachesta-1,3,Prachesta-2
+Nalanda,2022,3,Prachesta-2,4,Prachesta-3
+Nalbari,2022,2,Prachesta-1,3,Prachesta-2
+Nalgonda,2022,3,Prachesta-2,3,Prachesta-2
+Namakkal,2022,3,Prachesta-2,2,Prachesta-1
+Namsai,2022,4,Prachesta-3,4,Prachesta-3
+Nanded,2022,3,Prachesta-2,3,Prachesta-2
+Nandurbar,2022,3,Prachesta-2,3,Prachesta-2
+Narayanapet,2022,4,Prachesta-3,4,Prachesta-3
+Narayanpur,2022,4,Prachesta-3,3,Prachesta-2
+Narmada,2022,2,Prachesta-1,2,Prachesta-1
+Narsimhapur,2022,2,Prachesta-1,3,Prachesta-2
+Nashik,2022,2,Prachesta-1,2,Prachesta-1
+Navsari,2022,2,Prachesta-1,2,Prachesta-1
+Nawada,2022,4,Prachesta-3,4,Prachesta-3
+Nayagarh,2022,2,Prachesta-1,3,Prachesta-2
+Neemuch,2022,3,Prachesta-2,4,Prachesta-3
+New Delhi,2022,5,Uttam,5,Uttam
+Nicobars,2022,2,Prachesta-1,3,Prachesta-2
+Nirmal,2022,4,Prachesta-3,4,Prachesta-3
+Niwari,2022,3,Prachesta-2,4,Prachesta-3
+Nizamabad,2022,3,Prachesta-2,3,Prachesta-2
+Noney,2022,4,Prachesta-3,4,Prachesta-3
+North,2022,2,Prachesta-1,2,Prachesta-1
+North Garo Hills,2022,4,Prachesta-3,1,Akanshi
+North Goa,2022,2,Prachesta-1,3,Prachesta-2
+North Tripura,2022,3,Prachesta-2,3,Prachesta-2
+North West A,2022,5,Uttam,2,Prachesta-1
+Nuapada,2022,2,Prachesta-1,3,Prachesta-2
+Nuh,2022,3,Prachesta-2,4,Prachesta-3
+Pakke Kessang,2022,4,Prachesta-3,4,Prachesta-3
+Palakkad,2022,2,Prachesta-1,5,Uttam
+Palamu,2022,4,Prachesta-3,3,Prachesta-2
+Palghar,2022,3,Prachesta-2,3,Prachesta-2
+Pali,2022,2,Prachesta-1,3,Prachesta-2
+Palwal,2022,3,Prachesta-2,3,Prachesta-2
+Panch Mahals,2022,2,Prachesta-1,2,Prachesta-1
+Panchkula,2022,2,Prachesta-1,4,Prachesta-3
+Panipat,2022,2,Prachesta-1,2,Prachesta-1
+Panna,2022,2,Prachesta-1,4,Prachesta-3
+Papum Pare,2022,4,Prachesta-3,4,Prachesta-3
+Parbhani,2022,3,Prachesta-2,3,Prachesta-2
+Pashchim Champaran,2022,4,Prachesta-3,4,Prachesta-3
+Pashchimi Singhbhum,2022,3,Prachesta-2,3,Prachesta-2
+Patan,2022,2,Prachesta-1,2,Prachesta-1
+Pathanamthitta,2022,2,Prachesta-1,2,Prachesta-1
+Pathankot,2022,5,Uttam,2,Prachesta-1
+Patiala,2022,5,Uttam,2,Prachesta-1
+Patna,2022,3,Prachesta-2,4,Prachesta-3
+Peddapalli,2022,3,Prachesta-2,4,Prachesta-3
+Perambalur,2022,2,Prachesta-1,2,Prachesta-1
+Peren,2022,3,Prachesta-2,4,Prachesta-3
+Phek,2022,3,Prachesta-2,3,Prachesta-2
+Pherzawl,2022,4,Prachesta-3,1,Akanshi
+Pilibhit,2022,4,Prachesta-3,3,Prachesta-2
+Pithoragarh,2022,3,Prachesta-2,3,Prachesta-2
+Porbandar,2022,2,Prachesta-1,2,Prachesta-1
+Prakasam,2022,2,Prachesta-1,3,Prachesta-2
+Pratapgarh,2022,3,Prachesta-2,4,Prachesta-3
+Pratapgarh (Raj.),2022,2,Prachesta-1,3,Prachesta-2
+Pudukkottai,2022,3,Prachesta-2,2,Prachesta-1
+Pulwama,2022,2,Prachesta-1,4,Prachesta-3
+Punch,2022,3,Prachesta-2,3,Prachesta-2
+Pune,2022,2,Prachesta-1,3,Prachesta-2
+Purba Bardhaman,2022,3,Prachesta-2,3,Prachesta-2
+Purba Champaran,2022,4,Prachesta-3,4,Prachesta-3
+Purba Medinipur,2022,3,Prachesta-2,3,Prachesta-2
+Purbi Singhbhum,2022,3,Prachesta-2,4,Prachesta-3
+Puri,2022,3,Prachesta-2,3,Prachesta-2
+Purnia,2022,4,Prachesta-3,4,Prachesta-3
+Purulia,2022,3,Prachesta-2,3,Prachesta-2
+Rae Bareli,2022,3,Prachesta-2,3,Prachesta-2
+Raichur,2022,3,Prachesta-2,3,Prachesta-2
+Raigarh,2022,3,Prachesta-2,3,Prachesta-2
+Raigarh (Maharashtra),2022,2,Prachesta-1,3,Prachesta-2
+Raipur,2022,2,Prachesta-1,3,Prachesta-2
+Raisen,2022,2,Prachesta-1,3,Prachesta-2
+Rajanna Siricilla,2022,3,Prachesta-2,4,Prachesta-3
+Rajgarh,2022,3,Prachesta-2,4,Prachesta-3
+Rajkot,2022,2,Prachesta-1,2,Prachesta-1
+Rajnandgaon,2022,3,Prachesta-2,3,Prachesta-2
+Rajsamand,2022,2,Prachesta-1,3,Prachesta-2
+Ramanagara,2022,3,Prachesta-2,3,Prachesta-2
+Ramanathapuram,2022,3,Prachesta-2,2,Prachesta-1
+Ramban,2022,3,Prachesta-2,4,Prachesta-3
+Ramgarh,2022,3,Prachesta-2,3,Prachesta-2
+Rampur,2022,4,Prachesta-3,4,Prachesta-3
+Ranchi,2022,3,Prachesta-2,3,Prachesta-2
+Rangareddy,2022,3,Prachesta-2,4,Prachesta-3
+Ranipet,2022,3,Prachesta-2,3,Prachesta-2
+Ratlam,2022,3,Prachesta-2,4,Prachesta-3
+Ratnagiri,2022,2,Prachesta-1,3,Prachesta-2
+Rayagada,2022,3,Prachesta-2,3,Prachesta-2
+Reasi,2022,3,Prachesta-2,4,Prachesta-3
+Rewa,2022,3,Prachesta-2,4,Prachesta-3
+Rewari,2022,2,Prachesta-1,3,Prachesta-2
+Ri Bhoi,2022,4,Prachesta-3,1,Akanshi
+Rohtak,2022,2,Prachesta-1,3,Prachesta-2
+Rohtas,2022,3,Prachesta-2,4,Prachesta-3
+Rudraprayag,2022,3,Prachesta-2,4,Prachesta-3
+Rupnagar,2022,5,Uttam,2,Prachesta-1
+Sabar Kantha,2022,2,Prachesta-1,2,Prachesta-1
+Sagar,2022,3,Prachesta-2,3,Prachesta-2
+Saharanpur,2022,3,Prachesta-2,4,Prachesta-3
+Saharsa,2022,4,Prachesta-3,4,Prachesta-3
+Sahibganj,2022,4,Prachesta-3,4,Prachesta-3
+Saitual,2022,3,Prachesta-2,4,Prachesta-3
+Salem,2022,3,Prachesta-2,2,Prachesta-1
+Samastipur,2022,3,Prachesta-2,4,Prachesta-3
+Samba,2022,2,Prachesta-1,3,Prachesta-2
+Sambalpur,2022,2,Prachesta-1,3,Prachesta-2
+Sambhal (Bhim Nagar),2022,3,Prachesta-2,3,Prachesta-2
+Sangareddy,2022,3,Prachesta-2,4,Prachesta-3
+Sangli,2022,2,Prachesta-1,3,Prachesta-2
+Sangrur,2022,5,Uttam,5,Uttam
+Sant Kabir Nagar,2022,3,Prachesta-2,4,Prachesta-3
+Saran,2022,4,Prachesta-3,4,Prachesta-3
+Satara,2022,2,Prachesta-1,2,Prachesta-1
+Satna,2022,3,Prachesta-2,4,Prachesta-3
+Sawai Madhopur,2022,3,Prachesta-2,3,Prachesta-2
+Sehore,2022,3,Prachesta-2,4,Prachesta-3
+Senapati,2022,3,Prachesta-2,3,Prachesta-2
+Seoni,2022,3,Prachesta-2,4,Prachesta-3
+Sepahijala,2022,3,Prachesta-2,4,Prachesta-3
+Serchhip,2022,3,Prachesta-2,3,Prachesta-2
+Shahdol,2022,3,Prachesta-2,4,Prachesta-3
+Shahjahanpur,2022,4,Prachesta-3,4,Prachesta-3
+Shajapur,2022,3,Prachesta-2,4,Prachesta-3
+Shamli (Prabudh Nagar),2022,3,Prachesta-2,3,Prachesta-2
+Sheikhpura,2022,3,Prachesta-2,4,Prachesta-3
+Sheohar,2022,4,Prachesta-3,4,Prachesta-3
+Sheopur,2022,3,Prachesta-2,4,Prachesta-3
+Shi Yomi,2022,4,Prachesta-3,1,Akanshi
+Shimla,2022,2,Prachesta-1,3,Prachesta-2
+Shivamogga,2022,3,Prachesta-2,3,Prachesta-2
+Shivpuri,2022,4,Prachesta-3,4,Prachesta-3
+Shopian,2022,2,Prachesta-1,3,Prachesta-2
+Shrawasti,2022,3,Prachesta-2,3,Prachesta-2
+Siang,2022,4,Prachesta-3,4,Prachesta-3
+Siddharthnagar,2022,3,Prachesta-2,4,Prachesta-3
+Siddipet,2022,3,Prachesta-2,3,Prachesta-2
+Sidhi,2022,2,Prachesta-1,4,Prachesta-3
+Sikar,2022,2,Prachesta-1,3,Prachesta-2
+Siliguri,2022,3,Prachesta-2,3,Prachesta-2
+Simdega,2022,3,Prachesta-2,4,Prachesta-3
+Sindhudurg,2022,2,Prachesta-1,3,Prachesta-2
+Singrauli,2022,3,Prachesta-2,4,Prachesta-3
+Sirmaur,2022,2,Prachesta-1,3,Prachesta-2
+Sirohi,2022,2,Prachesta-1,4,Prachesta-3
+Sirsa,2022,2,Prachesta-1,4,Prachesta-3
+Sitamarhi,2022,4,Prachesta-3,4,Prachesta-3
+Sitapur,2022,4,Prachesta-3,4,Prachesta-3
+Siwan,2022,3,Prachesta-2,4,Prachesta-3
+Solan,2022,2,Prachesta-1,3,Prachesta-2
+Solapur,2022,2,Prachesta-1,3,Prachesta-2
+Sonbhadra,2022,3,Prachesta-2,4,Prachesta-3
+Sonepur,2022,2,Prachesta-1,3,Prachesta-2
+Sonipat,2022,2,Prachesta-1,3,Prachesta-2
+Sonitpur,2022,3,Prachesta-2,4,Prachesta-3
+South,2022,5,Uttam,2,Prachesta-1
+South East,2022,5,Uttam,2,Prachesta-1
+South Garo Hills,2022,4,Prachesta-3,1,Akanshi
+South Goa,2022,2,Prachesta-1,3,Prachesta-2
+South Tripura,2022,3,Prachesta-2,3,Prachesta-2
+South West A,2022,5,Uttam,2,Prachesta-1
+South West Garo Hills,2022,4,Prachesta-3,1,Akanshi
+South West Khasi Hills,2022,4,Prachesta-3,1,Akanshi
+Srikakulam,2022,2,Prachesta-1,3,Prachesta-2
+Srinagar,2022,2,Prachesta-1,3,Prachesta-2
+Sukma,2022,4,Prachesta-3,3,Prachesta-2
+Sultanpur,2022,3,Prachesta-2,4,Prachesta-3
+Supaul,2022,4,Prachesta-3,4,Prachesta-3
+Surajpur,2022,2,Prachesta-1,3,Prachesta-2
+Surat,2022,2,Prachesta-1,2,Prachesta-1
+Surendranagar,2022,2,Prachesta-1,2,Prachesta-1
+Surguja,2022,3,Prachesta-2,3,Prachesta-2
+Suryapet,2022,3,Prachesta-2,3,Prachesta-2
+Tamenglong,2022,3,Prachesta-2,4,Prachesta-3
+Tapi,2022,2,Prachesta-1,2,Prachesta-1
+Taran Taran,2022,5,Uttam,2,Prachesta-1
+Tawang,2022,4,Prachesta-3,3,Prachesta-2
+Tehri Garhwal,2022,3,Prachesta-2,3,Prachesta-2
+Tengnoupal,2022,4,Prachesta-3,4,Prachesta-3
+Tenkasi,2022,3,Prachesta-2,2,Prachesta-1
+Thane,2022,2,Prachesta-1,2,Prachesta-1
+Thanjavur,2022,2,Prachesta-1,2,Prachesta-1
+The Nilgiris,2022,2,Prachesta-1,2,Prachesta-1
+Theni,2022,3,Prachesta-2,2,Prachesta-1
+Thiruvananthapuram,2022,5,Uttam,2,Prachesta-1
+Thoothukkudi,2022,3,Prachesta-2,2,Prachesta-1
+Thoubal,2022,3,Prachesta-2,3,Prachesta-2
+Thrissur,2022,5,Uttam,5,Uttam
+Tikamgarh,2022,3,Prachesta-2,4,Prachesta-3
+Tinsukia,2022,2,Prachesta-1,3,Prachesta-2
+Tirap,2022,4,Prachesta-3,3,Prachesta-2
+Tiruchirappalli,2022,3,Prachesta-2,2,Prachesta-1
+Tirunelveli,2022,2,Prachesta-1,2,Prachesta-1
+Tiruppur,2022,3,Prachesta-2,2,Prachesta-1
+Tiruvallur,2022,3,Prachesta-2,2,Prachesta-1
+Tiruvannamalai,2022,3,Prachesta-2,2,Prachesta-1
+Tiruvarur,2022,3,Prachesta-2,2,Prachesta-1
+Tonk,2022,2,Prachesta-1,3,Prachesta-2
+Tuensang,2022,3,Prachesta-2,4,Prachesta-3
+Tumakuru,2022,2,Prachesta-1,3,Prachesta-2
+Udaipur,2022,3,Prachesta-2,4,Prachesta-3
+Udalguri,2022,3,Prachesta-2,3,Prachesta-2
+Udham Singh Nagar,2022,3,Prachesta-2,3,Prachesta-2
+Udhampur,2022,3,Prachesta-2,4,Prachesta-3
+Udupi,2022,2,Prachesta-1,3,Prachesta-2
+Ujjain,2022,3,Prachesta-2,4,Prachesta-3
+Ukhrul,2022,4,Prachesta-3,1,Akanshi
+Umaria,2022,3,Prachesta-2,4,Prachesta-3
+Una,2022,2,Prachesta-1,3,Prachesta-2
+Unakoti,2022,3,Prachesta-2,3,Prachesta-2
+Unnao,2022,3,Prachesta-2,3,Prachesta-2
+Upper Siang,2022,4,Prachesta-3,1,Akanshi
+Upper Subansiri,2022,4,Prachesta-3,4,Prachesta-3
+Uttar Dinajpur,2022,4,Prachesta-3,4,Prachesta-3
+Uttara Kannada,2022,2,Prachesta-1,3,Prachesta-2
+Uttara Kannada Sirsi,2022,2,Prachesta-1,3,Prachesta-2
+Uttarkashi,2022,3,Prachesta-2,4,Prachesta-3
+Vadodara,2022,2,Prachesta-1,2,Prachesta-1
+Vaishali,2022,3,Prachesta-2,4,Prachesta-3
+Valsad,2022,2,Prachesta-1,2,Prachesta-1
+Varanasi,2022,3,Prachesta-2,3,Prachesta-2
+Vellore,2022,3,Prachesta-2,2,Prachesta-1
+Vidisha,2022,3,Prachesta-2,4,Prachesta-3
+Vijayapura,2022,3,Prachesta-2,3,Prachesta-2
+Vikarabad,2022,3,Prachesta-2,4,Prachesta-3
+Villupuram,2022,3,Prachesta-2,2,Prachesta-1
+Virudhunagar,2022,3,Prachesta-2,2,Prachesta-1
+Visakhapatnam,2022,2,Prachesta-1,3,Prachesta-2
+Vizianagaram,2022,2,Prachesta-1,3,Prachesta-2
+Wanaparthy,2022,4,Prachesta-3,3,Prachesta-2
+Warangal,2022,3,Prachesta-2,3,Prachesta-2
+Wardha,2022,2,Prachesta-1,3,Prachesta-2
+Washim,2022,2,Prachesta-1,3,Prachesta-2
+Wayanad,2022,2,Prachesta-1,2,Prachesta-1
+West A,2022,2,Prachesta-1,2,Prachesta-1
+West B,2022,5,Uttam,2,Prachesta-1
+West Garo Hills,2022,4,Prachesta-3,1,Akanshi
+West Godavari,2022,2,Prachesta-1,3,Prachesta-2
+West Jaintia Hills,2022,4,Prachesta-3,1,Akanshi
+West Kameng,2022,4,Prachesta-3,4,Prachesta-3
+West Karbi Anglong,2022,3,Prachesta-2,3,Prachesta-2
+West Khasi Hills,2022,4,Prachesta-3,1,Akanshi
+West Siang,2022,4,Prachesta-3,4,Prachesta-3
+West Tripura,2022,3,Prachesta-2,3,Prachesta-2
+Wokha,2022,3,Prachesta-2,4,Prachesta-3
+Yadadri Bhuvanagiri,2022,3,Prachesta-2,3,Prachesta-2
+Yamunanagar,2022,2,Prachesta-1,3,Prachesta-2
+Yanam,2022,2,Prachesta-1,2,Prachesta-1
+Yavatmal,2022,2,Prachesta-1,3,Prachesta-2
+Zunheboto,2022,3,Prachesta-2,4,Prachesta-3
