@@ -199,3 +199,6 @@ Pipeline:
 Raw Data → Preprocess → Train → Predict
 
 The system predicts future district performance using past trends.
+
+I hope u understand well enough
+
