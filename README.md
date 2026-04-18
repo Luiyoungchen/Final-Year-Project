@@ -1,6 +1,6 @@
 # District PGI Future Prediction Model – Complete Explanation
 
-This project builds a machine learning system to predict the future performance of districts based on historical PGI (Performance Grading Index) data. The goal is to analyze how districts have performed in previous years and use that information to forecast how they will perform in the next year.
+**This project builds a machine learning system to predict the future performance of districts based on historical PGI (Performance Grading Index) data. The goal is to analyze how districts have performed in previous years and use that information to forecast how they will perform in the next year.**
 
 The dataset consists of multiple CSV files, each representing district-level performance for different years (2018 to 2023). These files include features such as Overall score, Outcome, ECT, IFSE, SSCP, DL, GP, Grade, and District name.
 
