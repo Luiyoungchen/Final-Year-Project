@@ -198,8 +198,7 @@ Model will automatically improve with more data
 Pipeline:
 
 Raw Data → Preprocess → Train → Predict
+need to update more.
 
 The system predicts future district performance using past trends.
-
-I hope u understand well enough
 
